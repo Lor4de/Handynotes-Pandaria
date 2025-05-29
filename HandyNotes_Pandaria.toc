@@ -1,0 +1,10 @@
+## Interface: 110105
+## Title: HandyNotes: Pandaria
+## Version: 1.2
+## Notes: Pandaria Rares and Treasures simplified
+## Author: Lorade
+## RequiredDeps: HandyNotes
+## SavedVariables: PandariaTreasuresDB
+
+Include.xml
+Main.lua
